@@ -1,5 +1,7 @@
 # Ionisation classification and logD-to-logP correction
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19625460.svg)](https://doi.org/10.5281/zenodo.19625460)
+
 ## Overview
 This script estimates logP, classifies compounds by ionisation state,
 and adjusts logP values for ionised compounds using experimental logD data.
@@ -70,9 +72,6 @@ Missing or non-numeric values are skipped with a warning.
 If you use this script in your work, please cite the original article:
 
 > Cirino, T., Caron, G., Ermondi, G., Charochkina, L., & Tetko, I. (2026). _SangsterLogP - the largest publicly available dataset of logP values._ **Scientific Data.** _In press._
-
-The data is stored on Zenodo:
-> https://doi.org/10.5281/zenodo.19387551
 
 ## Licence
 This script is released under the [MIT License](https://opensource.org/licenses/MIT).
