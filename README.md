@@ -1,4 +1,4 @@
-# logP Estimation and Ionisation Classification
+# Ionisation classification and logD-to-logP correction
 
 ## Overview
 This script estimates logP, classifies compounds by ionisation state,
@@ -69,10 +69,9 @@ Missing or non-numeric values are skipped with a warning.
 ## Citation
 If you use this script in your work, please cite the original article:
 
-> Cirino, T., Caron, G., Ermondi, G., Charochkina, L., & Tetko, I. (2026). SangsterLogP - the largest publicly available dataset of logP values. Scientific Data, Volume, Pages.
-> https://doi.org/10.xxxx/xxxxxx
+> Cirino, T., Caron, G., Ermondi, G., Charochkina, L., & Tetko, I. (2026). _SangsterLogP - the largest publicly available dataset of logP values._ **Scientific Data.** _In press._
 
-The Zenodo repository DOI is:
+The data is stored on Zenodo:
 > https://doi.org/10.5281/zenodo.19387551
 
 ## Licence
