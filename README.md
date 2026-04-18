@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19625460.svg)](https://doi.org/10.5281/zenodo.19625460)
 
 ## Overview
-Scripts accompanying the Scientific Data data descriptor by Cirino et al. (2026). This script classifies compounds by ionisation state, and adjusts logD measuments for ionised compounds to logP value, as described in the Methods section of the manuscript. It is provided to support reproducibility of the dataset generation and validation workflows.
+Scripts accompanying the **Scientific Data** _data descriptor_ by Cirino et al. (2026). This script classifies compounds by ionisation state, and adjusts _logD_ measuments for ionised compounds to _logP_ value, as described in the _Methods_ section of the manuscript. It is provided to support reproducibility of the dataset generation and validation workflows.
 
 ### Classification scheme
 | Class | Criterion       | Output       |
