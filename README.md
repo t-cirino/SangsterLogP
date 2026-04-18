@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19625460.svg)](https://doi.org/10.5281/zenodo.19625460)
 
 ## Overview
-This script estimates logP, classifies compounds by ionisation state,
+This script classifies compounds by ionisation state,
 and adjusts logP values for ionised compounds using experimental logD data.
 
 ### Classification scheme
