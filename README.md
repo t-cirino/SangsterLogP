@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19625460.svg)](https://doi.org/10.5281/zenodo.19625460)
 
 ## Overview
-This repository has the Python scripts accompanying the **Scientific Data** _data descriptor_ by Cirino et al. (2026). This script classifies compounds by ionisation state, and adjusts _logD_ measuments for ionised compounds to _logP_ value, as described in the _Methods_ section of the manuscript. It is provided to support reproducibility of the dataset generation and validation workflows.
+This repository has the Python scripts accompanying the **Scientific Data** _data descriptor_ by Cirino et al., 2026 (doi: 10.1038/s41597-026-07357-2). This script classifies compounds by ionisation state, and adjusts _logD_ measuments for ionised compounds to _logP_ value, as described in the _Methods_ section of the manuscript. It is provided to support reproducibility of the dataset generation and validation workflows.
 
 ### Classification scheme
 | Class | Criterion       | Output       |
